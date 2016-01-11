@@ -15,34 +15,35 @@ What **DATA** do they have?
 ### Virtual Currency
 
 #### Leading Players:
-* Lending Club
+* Bit Coin
 
 What **DATA** do they have?
 
 ### Third-Party Payment
 
 #### Leading Players:
-* Lending Club
+* PayPal
 
 What **DATA** do they have?
 
 ### Crowd Fund Raising
 
 #### Leading Players:
-* Lending Club
+* Kickstarter
 
 What **DATA** do they have?
 
 ### P2P Exange
 
 #### Leading Players:
-* Lending Club
+* TransferWise
 
 What **DATA** do they have?
 
 ### Robot Wealth Management
 
 #### Leading Players:
-* Lending Club
+* Wealth Front
+* Mint
 
 What **DATA** do they have?
