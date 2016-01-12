@@ -9,7 +9,7 @@ Material for Financial Technology Discussion
 
 #### Leading Players:
 * [Lending Club](https://www.lendingclub.com/)
-* [陸金所LU](https://www.lu.com)
+* [陸金所LU.com](https://www.lu.com)
 
 **Competitive Advantages**:
 
@@ -24,7 +24,9 @@ What would be the challenges to SAS if we need to do for the above bullet?
 ### Virtual Currency
 
 #### Leading Players:
-* Bit Coin
+* [Bit Coin](https://bitcoin.org)
+* WoW Token
+* Linden Dollar
 
 **Competitive Advantages**:
 
@@ -39,7 +41,8 @@ What would be the challenges to SAS if we need to do for the above bullet?
 ### Third-Party Payment
 
 #### Leading Players:
-* PayPal
+* [PayPal](https://www.paypal.com)
+* [AliPay](https://www.alipay.com)
 
 **Competitive Advantages**:
 
@@ -51,10 +54,11 @@ How SAS can make use of these FinTech to support for the client?
 
 What would be the challenges to SAS if we need to do for the above bullet?
 
-### Crowd Fund Raising
+### Crowd Funding
 
 #### Leading Players:
-* Kickstarter
+* [Kickstarter](https://www.kickstarter.com)
+* [FlyingV](https://www.flyingv.cc)
 
 **Competitive Advantages**:
 
@@ -66,10 +70,10 @@ How SAS can make use of these FinTech to support for the client?
 
 What would be the challenges to SAS if we need to do for the above bullet?
 
-### P2P Exange
+### P2P Exchange
 
 #### Leading Players:
-* TransferWise
+* [TransferWise](https://transferwise.com)
 
 **Competitive Advantages**:
 
@@ -81,11 +85,11 @@ How SAS can make use of these FinTech to support for the client?
 
 What would be the challenges to SAS if we need to do for the above bullet?
 
-### Robot Wealth Management
+### Personal Finance
 
 #### Leading Players:
-* Wealth Front
-* Mint
+* [Wealthfront](https://www.wealthfront.com)
+* [Mint](https://www.mint.com)
 
 **Competitive Advantages**:
 
