@@ -12,6 +12,7 @@ Material for Financial Technology Discussion
 * [陸金所LU.com](https://www.lu.com)
 
 **Business Model**
+
 1. Borrower posts lending requests
 2. Lender searches requests
 3. Lending through platform
@@ -52,6 +53,7 @@ What would be the challenges to SAS if we need to do for the above bullet?
 * Linden Dollar
 
 **Business Model**
+
 1. Mining or purchasing for coins
 2. Saving in e-wallets
 3. Transaction
@@ -65,6 +67,7 @@ I personally do not think SAS could involve in this area.
 * [AliPay](https://www.alipay.com)
 
 **Business Model**
+
 1. Buyer pays platform
 2. Platform sends notice to seller
 3. Seller sends product to buyer
@@ -103,6 +106,7 @@ What would be the challenges to SAS if we need to do for the above bullet?
 * [FlyingV](https://www.flyingv.cc)
 
 **Business Model**
+
 1. Fund raiser posts funding project with a target
 2. Supporter donates
 3. Reaches target
@@ -117,6 +121,7 @@ I personally do not think SAS could involve in this area.
 * [Azimo](https://azimo.com/en/)
 
 **Business Model**
+
 1. Saving Euros in exchange for Pounds
 2. Match-making
 3. Saving Pounds in exchange for Euros
@@ -150,6 +155,7 @@ What would be the challenges to SAS if we need to do for the above bullet?
 * [Mint](https://www.mint.com)
 
 **Business Model**
+
 1. Customer registers with profile, risk appetite, and portfolio data
 2. Artificial Intelligence/Machine Learning algorithm
 3. Advisory dashboard
