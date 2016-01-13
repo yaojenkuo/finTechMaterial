@@ -27,7 +27,7 @@ Material for Financial Technology Discussion
 * Customer profile
   * Lender
   * Borrower
-* Session log(Customer behavior)
+* Session log
   * Lender's searching behavior
   * Borrower's posting behavior
 
