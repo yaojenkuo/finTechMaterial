@@ -334,9 +334,9 @@ Source:
 		- Auxmoney(DE)
 		- Aqush(JP)
 		- popfunding(KR)
-		- Comunitae(SP)
-		- Uppspretta(IL)
-		- Fairplace(BZ)
+		- Comunitae(ES)
+		- Uppspretta(IS)
+		- Fairplace(BR)
 		- 人人貸與拍拍貸(CN)
 
 - P2P貸款本質上屬於民間信用借貸，與傳統銀行貸款相比，其手續簡便、門檻低
